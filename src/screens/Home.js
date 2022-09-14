@@ -19,7 +19,7 @@ export default function Home(){
                 <TextInput style={styles.campo} placeholder="Nome do filme" />
 
                 <TouchableOpacity style={styles.button}>
-                    <Text style={styles.buttonText}>Adicionar</Text>
+                    <Text style={styles.buttonText}>Adiciona</Text>
                 </TouchableOpacity>
 
 
